@@ -1,2 +1,2 @@
 # Networks-Flow
-This repository contains all the code, description and solution to the project of the course Networks Flow at University of the Andes, Colombia.
+This repository contains all the code, descriptions, and solutions for the Networks Flow course project at the University of the Andes, Colombia
