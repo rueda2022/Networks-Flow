@@ -2,6 +2,7 @@
 This repository contains all the code, descriptions, and solutions for the Networks Flow course project at the University of the Andes, Colombia.
 
 ## Repository estructure
+```
 .
 ├── data
 │   ├── data_driver.ipynb
@@ -36,6 +37,7 @@ This repository contains all the code, descriptions, and solutions for the Netwo
 └── utils
     ├── __init__.py
     └── functions.py
+```
 
 Project is divided in four main folders:
 - [Data](##Data)
